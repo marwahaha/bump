@@ -38,7 +38,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.kick` | Kicks a user with a DM | [@user][reason] |
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
 | `b.listemojis` | Lists the emojis on a server | *No Parameters* |
-| `b.magazine` | Shows local news from different sources | *No Parameters* |
+| `b.news` | Shows local news from different sources | *No Parameters* |
 | `b.partner` | Parner Application | *No Parameters* |
 | `b.pbump` | Premium Bump! for premium users only | *No Parameters* |
 | `b.ping` | Pings the bot | *No Parameters* |
