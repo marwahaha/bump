@@ -3,6 +3,7 @@
 Welcome to the "Bump !" Official Documentation! This **Discord Bot** is here to help you expand and grow your server through its ___advertising commands___, with partnerships with *several major server listing areas*! Here you can find extensive information about **commands, usage, guilds** and **how this bot can help you**!
 
 **Our listing on dbots.org** If you want to add the bot visit here!
+
 [![Discord Bots](https://discordbots.org/api/widget/354107917508673547.png)](https://discordbots.org/bot/354107917508673547)
 
 ## Getting Started
