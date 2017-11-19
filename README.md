@@ -4,7 +4,7 @@ Welcome to the "Bump !" Official Documentation! This **Discord Bot** is here to 
 
 **Our listing on dbots.org** If you want to add the bot visit here!
 
-[![Discord Bots](https://discordbots.org/api/widget/354107917508673547.png)](https://discordbots.org/bot/354107917508673547)
+[![Discord Bots](https://discordbots.org/api/widget/307998818547531777.png?topcolor=%23FFFF00&middlecolor=%23FF00FF)](https://discordbots.org/bot/354107917508673547)
 
 ## Getting Started
 
