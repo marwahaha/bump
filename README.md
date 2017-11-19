@@ -55,6 +55,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.staff` | Confirms staff status | *No Parameters* |
 | `b.transmit` | Sends a message to the Official Server | [message] |
 | `b.userinfo` | Gets a user's stats | *Optional*: [@user] |
+|`b.ascii`     | Makes the bot send text in ASCII foemat| [message] |
 
 ## Staff and Owner Commands
 Staff and Owner Commands. **Not for use by regular bot users**.
