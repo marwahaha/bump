@@ -25,6 +25,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | Command | Description | Usage |
 | --- | --- | --- |
 | `b.addrole` | Adds a **given role** to a *mentioned user* | [@user][rolename] |
+|`b.ascii`| Makes the bot send text in ASCII format| [message]|
 | `b.balance` | Shows the **server's** Bump ! Coin balance | *No Parameters* |
 | `b.ban` | Bans a user with a DM | [@user][reason] |
 | `b.bump` | Bumps your server | *No Parameters* | 
@@ -55,7 +56,6 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.staff` | Confirms staff status | *No Parameters* |
 | `b.transmit` | Sends a message to the Official Server | [message] |
 | `b.userinfo` | Gets a user's stats | *Optional*: [@user] |
-|`b.ascii`     | Makes the bot send text in ASCII format| [message] |
 
 ## Staff and Owner Commands
 Staff and Owner Commands. **Not for use by regular bot users**.
