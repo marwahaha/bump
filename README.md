@@ -33,7 +33,6 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.chset` | Sets the channel that Bump Commands make invites for | [channel id] |
 | `b.crinvite` | Makes an invite to a server | [server name] |
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
-| `b.grow` | Sends a request to Inspire Pro for server growth help | *No Parameters* |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
 | `b.hexfind` | Searches up a hexcode | [hexcode] |
 | `b.hexgen` | Creates a random color w/ hexcode | *No Parameters* |
