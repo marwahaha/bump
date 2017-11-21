@@ -42,7 +42,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
 | `b.listemojis` | Lists the emojis on a server | *No Parameters* |
 | `b.news` | Shows local news from different sources | *No Parameters* |
-| `b.partner` | Parner Application | *No Parameters* |
+| `b.partner` | DMs you the partner application | *No Parameters* |
 | `b.pbump` | Premium Bump! for premium users only | *No Parameters* |
 | `b.ping` | Pings the bot | *No Parameters* |
 | `b.portal` | Creates a random server invite | *No Parameters* |
