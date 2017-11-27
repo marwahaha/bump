@@ -37,6 +37,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.hexfind` | Searches up a hexcode | [hexcode] |
 | `b.hexgen` | Creates a random color w/ hexcode | *No Parameters* |
 | `b.info` | Bot Information | *No Parameters* |
+|`b.invert`| Inverts the colors of a picture using avatars, attachments, or a link | *Optional:* [mention-attachment-link]|
 | `b.invites` | Important Invites | *No Parameters* |
 | `b.kick` | Kicks a user with a DM | [@user][reason] |
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
@@ -45,6 +46,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.partner` | DMs you the partner application | *No Parameters* |
 | `b.pbump` | Premium Bump! for premium users only | *No Parameters* |
 | `b.ping` | Pings the bot | *No Parameters* |
+|`b.pixelate`| Pixelates a picture using avatars, attachments, or a link| *Optional:* [mention-attachment-link]|
 | `b.portal` | Creates a random server invite | *No Parameters* |
 | `b.preview` | Shows what your server's premium bump would look like | *No Parameters* |
 | `b.register` | Registers your server | *No Parameters* |
@@ -68,7 +70,7 @@ Staff and Owner Commands. **Not for use by regular bot users**.
 | `b.update` | Updates dbots and bots.discord status | *No Parameters* |
 
 ## Creator
-**Slow Loris** - *Head Developer*
+**Slow Loris#0640** - *Head Developer*
 ## Important Links
 * [Official Discord](https://discord.gg/kPGsAm7)
 * [Discordbots Listing](https://discordbots.org/bot/354107917508673547)
