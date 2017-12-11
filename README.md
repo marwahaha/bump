@@ -70,7 +70,7 @@ Staff and Owner Commands. **Not for use by regular bot users**.
 | `b.update` | Updates dbots and bots.discord status | *No Parameters* |
 
 ## Creator
-**Slow Loris#0640** - *Head Developer*
+**Slow Loris#0640**
 ## Important Links
 * [Official Discord](https://discord.gg/kPGsAm7)
 * [Discordbots Listing](https://discordbots.org/bot/354107917508673547)
