@@ -1,5 +1,7 @@
 # Introduction :robot:
 
+[![Invite me!](https://img.shields.io/badge/Discord-Invite%20Me-6b80c2.svg)](https://discordapp.com/oauth2/authorize?client_id=354107917508673547&scope=bot&permissions=1610087679) [![Discord](https://img.shields.io/discord/354296784694018048.svg)](https://discord.gg/kPGsAm7) [![Support the Bot](https://img.shields.io/badge/Support-the%20Bot-orange.svg)](https://www.patreon.com/slowloris)
+
 Welcome to the "Bump !" Official Documentation! This **Discord Bot** is here to help you expand and **grow** your server through its ___advertising commands___, with partnerships with *several major server listing areas*! Here you can find extensive information about **commands, usage, guilds** and **how this bot can help you**!
 
 **Our listing on dbots.org** If you want to add the bot visit here!
