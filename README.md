@@ -33,13 +33,10 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.bump` | Bumps your server | *No Parameters* | 
 | `b.chreset` | Resets the channel (delete + restore) | *No Parameters* |
 | `b.chset` | Sets the channel that Bump Commands make invites for | [channel id] |
-| `b.crinvite` | Makes an invite to a server | [server name] |
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
 | `b.hexfind` | Searches up a hexcode | [hexcode] |
-| `b.hexgen` | Creates a random color w/ hexcode | *No Parameters* |
 | `b.info` | Bot Information | *No Parameters* |
-|`b.invert`| Inverts the colors of a picture using avatars, attachments, or a link | *Optional:* [mention-attachment-link]|
 | `b.invites` | Important Invites | *No Parameters* |
 | `b.kick` | Kicks a user with a DM | [@user][reason] |
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
@@ -48,16 +45,10 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.partner` | DMs you the partner application | *No Parameters* |
 | `b.pbump` | Premium Bump! for premium users only | *No Parameters* |
 | `b.ping` | Pings the bot | *No Parameters* |
-|`b.pixelate`| Pixelates a picture using avatars, attachments, or a link| *Optional:* [mention-attachment-link]|
-| `b.portal` | Creates a random server invite | *No Parameters* |
 | `b.preview` | Shows what your server's premium bump would look like | *No Parameters* |
 | `b.register` | Registers your server | *No Parameters* |
-| `b.say` | Makes the bot say your message | [message] |
 | `b.serverinfo` | Shows server info (member count, etc) | *No Parameters* |
 | `b.setdesc` | Sets your server's description | [description] |
-| `b.shop` | The Bump ! Coin shop | *Optional*: [itemcode] |
-| `b.staff` | Confirms staff status | *No Parameters* |
-| `b.transmit` | Sends a message to the Official Server | [message] |
 | `b.userinfo` | Gets a user's stats | *Optional*: [@user] |
 
 ## Staff and Owner Commands
