@@ -26,12 +26,12 @@ This is the full documentation of **all commands**, to see a shorter version jus
 
 | Command | Description | Usage |
 | --- | --- | --- |
-| `b.addrole` | Adds a **given role** to a *mentioned user* | [@user][rolename] |
 |`b.ascii`| Makes the bot send text in ASCII format| [message]|
 | `b.balance` | Shows the **server's** Bump ! Coin balance | *No Parameters* |
 | `b.ban` | Bans a user with a DM | [@user][reason] |
 | `b.bump` | Bumps your server | *No Parameters* | 
-| `b.chreset` | Resets the channel (delete + restore) | *No Parameters* |
+| `b.chinfo` | View information on a channel | [channel mentions | channel id] |
+| `b.chreset` | Reset a channel (delete + remake) | [channel mentions | channel id] |
 | `b.chset` | Sets the channel that Bump Commands make invites for | [channel id] |
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
