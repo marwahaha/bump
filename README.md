@@ -28,39 +28,37 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | --- | --- | --- |
 |`b.ascii`| Makes the bot send text in ASCII format| [message]|
 | `b.balance` | Shows the **server's** Bump ! Coin balance | *No Parameters* |
-| `b.ban` | Bans a user with a DM | [@user][reason] |
+| `b.ban` | Bans a user with a DM | [@user | user id][reason] |
 | `b.bump` | Bumps your server | *No Parameters* | 
-| `b.chinfo` | View information on a channel | [channel mentions | channel id] |
-| `b.chreset` | Reset a channel (delete + remake) | [channel mentions | channel id] |
-| `b.chset` | Sets the channel that Bump Commands make invites for | [channel id] |
+| `b.chinfo` | View information on a channel | [channel mention | channel id] |
+| `b.chreset` | Reset a channel (delete + remake) | [channel mention | channel id] |
+| `b.chset` | Sets the channel that Bump Commands make invites for | [channel mention | channel id] |
+| `b.clone` | Clone a channel | [channel mention | channel id] | 
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
+| `b.dice` | Roll some dice | [Example: d10] |
+| `b.github` | View information abouta github repository | [username/repo] |
+| `b.hackban` | Ban a user not in your server through id | [user id][reason] |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
 | `b.hexfind` | Searches up a hexcode | [hexcode] |
-| `b.info` | Bot Information | *No Parameters* |
-| `b.invites` | Important Invites | *No Parameters* |
+| `b.info` | View Bot Information | *No Parameters* |
+| `b.invite` | Important Invites | *No Parameters* |
 | `b.kick` | Kicks a user with a DM | [@user][reason] |
+| `b.latex` | Render a LaTeX equation | [LaTeX] |
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
-| `b.listemojis` | Lists the emojis on a server | *No Parameters* |
+| `b.mute` | Mute a user up to 10 hours | [@user | user id][reason] |
 | `b.news` | Shows local news from different sources | *No Parameters* |
-| `b.partner` | DMs you the partner application | *No Parameters* |
+| `b.npm` | View information about an npm package | [package name] |
 | `b.pbump` | Premium Bump! for premium users only | *No Parameters* |
 | `b.ping` | Pings the bot | *No Parameters* |
 | `b.preview` | Shows what your server's premium bump would look like | *No Parameters* |
 | `b.register` | Registers your server | *No Parameters* |
 | `b.serverinfo` | Shows server info (member count, etc) | *No Parameters* |
 | `b.setdesc` | Sets your server's description | [description] |
+| `b.unban` | Unban a user | [user id] |
+| `b.unmute` | Unmute a user | [@user | user id] |
+| `b.upvote` | Upvote the bot online | *No Parameters* |
 | `b.userinfo` | Gets a user's stats | *Optional*: [@user] |
-
-## Staff and Owner Commands
-Staff and Owner Commands. **Not for use by regular bot users**.
-
-| Command | Description | Usage |
-| --- | --- | --- |
-| `b.eval` | Evals the given code | [code] |
-| `b.insert` | Gives a user premium access | [userid] |
-| `b.remove` | Removes a user's premium access | [userid] |
-| `b.sd` | Shutsdown and restarts the bot | *No Parameters* |
-| `b.update` | Updates dbots and bots.discord status | *No Parameters* |
+| `b.warn` | Warn a user with DM | [@member | userId][reason] |
 
 ## Creator
 **Slow Loris#0640**
