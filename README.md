@@ -65,6 +65,6 @@ This is the full documentation of **all commands**, to see a shorter version jus
 **Slow Loris#0640**
 ## Important Links
 * [Official Discord](https://discord.gg/kPGsAm7)
-* [Discordbots Listing](https://discordbots.org/bot/354107917508673547)
+* [Discordbots Listing](https://discordbots.org/bot/bump)
 * [Bots.discord.pw Listing](https://bots.discord.pw/bots/354107917508673547)
 * [Support on Patreon!](https://www.patreon.com/slowloris)
