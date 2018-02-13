@@ -35,7 +35,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.chset` | Sets the channel that Bump Commands make invites for | [channel mention | channel id] |
 | `b.clone` | Clone a channel | [channel mention | channel id] | 
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
-| `b.dice` | Roll some dice | [Example: d10] |
+| `b.dice` | Roll some dice | [Example: 1d10] |
 | `b.github` | View information abouta github repository | [username/repo] |
 | `b.hackban` | Ban a user not in your server through id | [user id][reason] |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
@@ -45,6 +45,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.kick` | Kicks a user with a DM | [@user][reason] |
 | `b.latex` | Render a LaTeX equation | [LaTeX] |
 | `b.lb` | Bump ! Coin Leaderboard | *No Parameters* |
+| `b.massrole` | Give a role to everyone on your server except admins and bots | [role name | role id] |
 | `b.mute` | Mute a user up to 10 hours | [@user | user id][reason] |
 | `b.news` | Shows local news from different sources | *No Parameters* |
 | `b.npm` | View information about an npm package | [package name] |
