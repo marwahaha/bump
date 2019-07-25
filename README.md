@@ -37,7 +37,7 @@ This is the full documentation of **all commands**, to see a shorter version jus
 | `b.clone` | Clone a channel | [channel mention | channel id] | 
 | `b.del` | Purges messages from a channel | [2 > num < 99] |
 | `b.dice` | Roll some dice | [Example: 1d10] |
-| `b.github` | View information abouta github repository | [username/repo] | 
+| `b.github` | View information about a github repository | [username/repo] | 
 | `b.giveaway` | Create a timed giveaway in your server | [minutes][text] |
 | `b.hackban` | Ban a user not in your server through id | [user id][reason] |
 | `b.help` | Opens up the help menu | *Optional*: [sectionname] |
